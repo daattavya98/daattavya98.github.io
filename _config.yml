@@ -188,6 +188,8 @@ exclude:
   - _pages/projects.md
   - _pages/books.md
   - _pages/dropdown.md
+  - _pages/teaching.md
+  - _pages/prfiles.md
   - purgecss.config.js
   - README.md
   - readme_preview/
