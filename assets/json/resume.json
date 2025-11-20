@@ -1,62 +1,67 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daattavya Aggarwal",
+    "label": "At the intersection of mathematics, computer science and physics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "da579@cam.ac.uk",
+    "phone": "+44-07873444491",
+    "url": "https://aggarwaldaattavya.com",
+    "summary": "Interested in AI-guided mathematical discovery and it's applications to mathematical physics, geometry and number theory",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Daattavya Aggarwal",
+        "url": "https://scholar.google.com/citations?hl=en&user=cbJL-MMAAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "daattavya98",
+        "url": "https://www.linkedin.com/in/daattavya98/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "University of Cambridge",
+      "position": "PhD student in AI for Mathematical Discovery",
+      "url": "https://science.ai.cam.ac.uk/team/daattavya-aggarwal",
+      "startDate": "2024-01-05",
+      "endDate": "2028-01-05",
+      "summary": "Developing novel methods for AI-guided mathematical discovery, namely the conj-refute system and showed it's utility via discovering definitions and theorems in algebraic topology. Worked on a new function in number theory (WAM) which has connections to the abc-conjecture. Working on applications of my proposed methods to problems within geometry and mathematical physics.",
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Cambridge",
+      "location": "Cambridge, United Kingdom",
+      "url": "https://www.cam.ac.uk",
+      "area": "AI for Mathematical Discovery",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "startDate": "2024-01-05",
+      "endDate": ""
+    },
+    {
+      "institution": "University of Oxford",
+      "location": "Oxford, United Kingdom",
+      "url": "https://www.ox.ac.uk",
+      "area": "MSc. Mathematical and Theoretical Physics",
+      "studyType": "MSc",
+      "startDate": "2020-09-17",
+      "endDate": "2021-06-30",
+      "score": "Merit",
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Technology, Roorkee",
+      "location": "Oxford, United Kingdom",
+      "url": "https://www.ox.ac.uk",
+      "area": "MSc. Mathematical and Theoretical Physics",
+      "studyType": "MSc",
+      "startDate": "2020-09-17",
+      "endDate": "2021-06-30",
+      "score": "Merit",
+      "courses": []
+    },
   ],
   "awards": [
     {
