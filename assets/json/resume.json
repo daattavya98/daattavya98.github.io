@@ -27,7 +27,7 @@
       "url": "https://science.ai.cam.ac.uk/team/daattavya-aggarwal",
       "startDate": "2024-01-05",
       "endDate": "2028-01-05",
-      "summary": "Developing novel methods for AI-guided mathematical discovery, namely the conj-refute system and showed it's utility via discovering definitions and theorems in algebraic topology. Worked on a new function in number theory (WAM) which has connections to the abc-conjecture. Working on applications of my proposed methods to problems within geometry and mathematical physics.",
+      "summary": "Developing novel methods for AI-guided mathematical discovery, namely the conj-refute system and showed it's utility via discovering definitions and theorems in algebraic topology. Worked on a new function in number theory (WAM) which has connections to the abc-conjecture. Working on applications of my proposed methods to problems within geometry and mathematical physics."
     }
   ],
   "education": [
@@ -44,7 +44,7 @@
       "institution": "University of Oxford",
       "location": "Oxford, United Kingdom",
       "url": "https://www.ox.ac.uk",
-      "area": "MSc. Mathematical and Theoretical Physics",
+      "area": "Mathematical and Theoretical Physics",
       "studyType": "MSc",
       "startDate": "2020-09-17",
       "endDate": "2021-06-30",
@@ -53,15 +53,15 @@
     },
     {
       "institution": "Indian Institute of Technology, Roorkee",
-      "location": "Oxford, United Kingdom",
-      "url": "https://www.ox.ac.uk",
-      "area": "MSc. Mathematical and Theoretical Physics",
-      "studyType": "MSc",
-      "startDate": "2020-09-17",
-      "endDate": "2021-06-30",
-      "score": "Merit",
+      "location": "Roorkee, India",
+      "url": "https://www.iitr.ac.in",
+      "area": "Engineering Physics",
+      "studyType": "B.Tech",
+      "startDate": "2016-08-17",
+      "endDate": "2020-05-29",
+      "score": "8.738/10.0, First division with Distinction",
       "courses": []
-    },
+    }
   ],
   "awards": [
     {
