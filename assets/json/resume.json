@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Cambridge",
-      "location": "Cambridge, United Kingdom",
+      "location": "Cambridge, UK",
       "url": "https://www.cam.ac.uk",
       "area": "AI for Mathematical Discovery",
       "studyType": "PhD",
@@ -42,7 +42,7 @@
     },
     {
       "institution": "University of Oxford",
-      "location": "Oxford, United Kingdom",
+      "location": "Oxford, UK",
       "url": "https://www.ox.ac.uk",
       "area": "Mathematical and Theoretical Physics",
       "studyType": "MSc",
