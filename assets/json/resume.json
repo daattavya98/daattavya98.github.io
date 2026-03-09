@@ -27,7 +27,7 @@
       "url": "https://science.ai.cam.ac.uk/team/daattavya-aggarwal",
       "startDate": "2024-01-05",
       "endDate": "2028-01-05",
-      "summary": "Developing novel methods for AI-guided mathematical discovery, namely the conj-refute system and showed it's utility via discovering definitions and theorems in algebraic topology. Worked on a new function in number theory (WAM) which has connections to the abc-conjecture. Working on applications of my proposed methods to problems within geometry and mathematical physics."
+      "summary": "Developing novel methods for guided mathematical discovery by AI systems. Attempting to apply these approaches to reasearch problems. Have previously worked on problems in geometry and number theory."
     }
   ],
   "education": [
@@ -65,11 +65,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Felix Scholar",
+      "date": "2020",
+      "awarder": "The Felix Scholarship",
+      "url": "https://www.felixscholarship.org/",
+      "summary": "A full ride scholarship for five Indian students yearly to study at the University of Oxford. Generously supported by an anonymous donor."
     }
   ],
   "certificates": [
