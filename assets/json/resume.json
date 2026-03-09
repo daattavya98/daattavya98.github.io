@@ -118,25 +118,39 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Discovering Mathematical Concepts through a Multi-Agent System",
+      "publisher": "arXiv preprint arXiv:2603.04528",
+      "releaseDate": "2026-03-06",
+      "url": "https://arxiv.org/abs/2603.04528",
+      "summary": "A multi-agent model for computational mathematical discovery that poses its own conjectures and attempts to prove them, benchmarked on recovering the concept of homology from polyhedral data."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A Remark on Weighted Average Multiplicities in Prime Factorisation",
+      "publisher": "arXiv preprint arXiv:2510.06993",
+      "releaseDate": "2025-10-09",
+      "url": "https://arxiv.org/abs/2510.06993",
+      "summary": "A study of weighted average multiplicity (WAM), a generalisation of the quality of an ABC triple, connecting it to the standard ABC conjecture."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Machine Learning Sasakian and G2 Topology on Contact Calabi-Yau 7-Manifolds",
+      "publisher": "Physics Letters B, Vol. 850, p. 138517",
+      "releaseDate": "2024-03-01",
+      "url": "https://doi.org/10.1016/j.physletb.2024.138517",
+      "summary": "A machine learning approach to study topological quantities related to Sasakian and G2-geometries of contact Calabi-Yau 7-manifolds."
+    },
+    {
+      "name": "Generalized Boolean Functions and Quantum Circuits on IBM-Q",
+      "publisher": "IEEE ICCCNT 2019",
+      "releaseDate": "2019-07-01",
+      "url": "https://doi.org/10.1109/ICCCNT45670.2019.8944437",
+      "summary": "Deriving a connection between quantum circuits using IBM's quantum gate set and multivariate quadratic polynomials over integers modulo 8."
+    },
+    {
+      "name": "Application of Quantum Scrambling in Rydberg Atom on IBM Quantum Computer",
+      "publisher": "arXiv preprint arXiv:1806.00781",
+      "releaseDate": "2018-07-01",
+      "url": "https://arxiv.org/abs/1806.00781",
+      "summary": "A general quantum circuit to implement an interferometric protocol for measuring out-of-time-ordered correlator (OTOC) functions in Rydberg atom simulations."
     }
   ],
   "skills": [
