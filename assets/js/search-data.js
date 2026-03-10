@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-blog",
           title: "blog",
-          description: "A reading list of blogs and webpages on AI for mathematics.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
