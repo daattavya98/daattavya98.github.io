@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="white-space: nowrap;">Contact: da579 [at] cam [dot] ac [dot] uk</p>
+    <p style="text-align: center; font-size: 0.85rem;">Contact: da579 [at] cam [dot] ac [dot] uk</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
