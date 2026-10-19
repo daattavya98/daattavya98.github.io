@@ -215,6 +215,37 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.profile-socials {
+  margin: 0.75rem auto 0;
+  width: fit-content;
+  font-size: 0.9rem;
+
+  td {
+    padding: 0.2rem 0.35rem;
+  }
+
+  td:first-child {
+    color: var(--global-theme-color);
+    text-align: center;
+    width: 1.5rem;
+  }
+
+  a {
+    color: var(--global-text-color);
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+.availability-box {
+  background-color: var(--global-code-bg-color);
+  border-radius: 0.25rem;
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

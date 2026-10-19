@@ -1,0 +1,38 @@
+<table class="profile-socials">
+  <tbody>
+    {% if site.data.socials.email %}
+      <tr>
+        <td><i class="fa-solid fa-envelope" aria-hidden="true"></i></td>
+        <td><a href="mailto:{{ site.data.socials.email | encode_email }}">Email</a></td>
+      </tr>
+    {% endif %}
+    {% if site.data.socials.github_username %}
+      <tr>
+        <td><i class="fa-brands fa-github" aria-hidden="true"></i></td>
+        <td><a href="https://github.com/{{ site.data.socials.github_username }}">GitHub</a></td>
+      </tr>
+    {% endif %}
+    {% if site.data.socials.linkedin_username %}
+      <tr>
+        <td><i class="fa-brands fa-linkedin" aria-hidden="true"></i></td>
+        <td><a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}">LinkedIn</a></td>
+      </tr>
+    {% endif %}
+    {% if site.data.socials.orcid_id %}
+      <tr>
+        <td><i class="ai ai-orcid" aria-hidden="true"></i></td>
+        <td><a href="https://orcid.org/{{ site.data.socials.orcid_id }}">ORCID</a></td>
+      </tr>
+    {% endif %}
+    {% if site.data.socials.scholar_userid %}
+      <tr>
+        <td><i class="ai ai-google-scholar" aria-hidden="true"></i></td>
+        <td>
+          <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}">
+            Google Scholar
+          </a>
+        </td>
+      </tr>
+    {% endif %}
+  </tbody>
+</table>
