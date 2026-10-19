@@ -217,17 +217,19 @@ ul.task-list input[type="checkbox"] {
 
 .profile-socials {
   margin: 0.75rem auto 0;
-  width: fit-content;
-  font-size: 0.9rem;
+  width: 100%;
+  font-size: 1rem;
 
   td {
-    padding: 0.2rem 0.35rem;
+    padding: 0.35rem 0.5rem;
+    vertical-align: middle;
   }
 
   td:first-child {
     color: var(--global-theme-color);
     text-align: center;
-    width: 1.5rem;
+    width: 2.25rem;
+    font-size: 1.25rem;
   }
 
   a {
