@@ -8,11 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p style="text-align: center; font-size: 0.85rem;">Contact: da579 [at] cam [dot] ac [dot] uk</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false
 
 announcements:
   enabled: false # includes a list of news items
@@ -33,5 +31,8 @@ Previously, I completed a masters in mathematical and theoretical physics at the
 
 **Current situation in AI for Mathematics:** I strongly believe in the importance of openness and transparency for the scientific endeavour. For a host of reasons, I would like to work towards a future where there is equitable access to open systems that the mathematical community can choose to engage with.
 
-
 <!-- -->
+
+<div class="availability-box">
+I am currently looking for my next role; please contact me at: <a href="mailto:da579@cam.ac.uk">da579@cam.ac.uk</a>
+</div>
