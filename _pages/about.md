@@ -27,7 +27,7 @@ My primary research interests can be roughly summarized through the following qu
 * Sparse, verifiable reward has been crucial in developing models that are successful at answering *fixed* mathematical questions. I am interested in the relationship between informal and formal proof and their roles on *posing* mathematical questions. 
 * Interpretability of mathematical thought: Over the past 6 months, frontier reasoning models have demonstrated the capability to resolve open research problems. How do they `think' while working on mathematical tasks?
 
-Previously, I completed a masters in mathematical and theoretical physics at the University of Oxford with a focus on Calabi-Yau manifolds. I am interested in applying tools from artificial intelligence to problems in a variety of mathematical areas and in the past, I have worked on problems in topology, geometry and number theory.
+Previously, I completed a masters in mathematical and theoretical physics at the University of Oxford with a focus on Calabi-Yau manifolds. I am interested in applying tools from artificial intelligence to a variety of mathematical areas and in the past, I have worked on problems in topology, geometry and number theory.
 
 For an up-to-date list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=cbJL-MMAAAAJ).
 
@@ -38,3 +38,5 @@ For an up-to-date list of publications, please visit my [Google Scholar profile]
 <div class="availability-box">
 I am currently looking for my next role; please contact me at: <a href="mailto:da579@cam.ac.uk">da579@cam.ac.uk</a>
 </div>
+
+This website uses the [al-folio theme](https://github.com/alshedivat/al-folio).
