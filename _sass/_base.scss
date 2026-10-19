@@ -248,6 +248,21 @@ ul.task-list input[type="checkbox"] {
   padding: 1rem 1.25rem;
 }
 
+.talk-conference {
+  font-size: 1.5rem;
+}
+
+.talk-title {
+  font-size: 1.25rem;
+}
+
+.talk-video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
 .theme-attribution {
   margin-top: 2rem;
 }

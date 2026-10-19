@@ -8,15 +8,15 @@ conference: "DANGER: Data, Numbers, and Geometry - Banff, 2026"
 ---
 
 {% if page.conference %}
-**Conference:** {{ page.conference }}
+<p class="talk-conference"><strong>{{ page.conference }}</strong></p>
 {% endif %}
 
-## Discovering mathematical concepts through a multi-agent system
+<h2 class="talk-title">Discovering mathematical concepts through a multi-agent system</h2>
 
-{% include video.liquid
-  path="https://videos.birs.ca/2026/26w5525/202604071332-Aggarwal.mp4"
-  width="100%"
-  controls=true
-  title="Discovering mathematical concepts through a multi-agent system"
-  alt="Video of a presentation"
-%}
+<iframe
+ class="talk-video"
+ src="https://www.youtube.com/embed/MB66HuCii-A"
+ title="Discovering mathematical concepts through a multi-agent system"
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+ allowfullscreen
+></iframe>
