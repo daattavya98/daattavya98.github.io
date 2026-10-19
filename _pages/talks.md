@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: selected talks
+title: talks
 nav: true
 nav_order: 4
 conference: "DANGER: Data, Numbers, and Geometry - Banff, 2026"
