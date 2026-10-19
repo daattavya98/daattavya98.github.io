@@ -23,7 +23,7 @@ I am finishing up a PhD in AI for Mathematical Discovery at the Computer Lab in 
 <!-- I am supervised by <a href='https://www.queens.cam.ac.uk/team/dr-challenger-mishra/'> Dr. Challenger Mishra</a>.   -->
 
 My primary research interests can be roughly summarized through the following question: What is the nature of mathematical discovery and what role can AI play in this process? I am tackling this question through multiple approaches:
-* Developing neurosymbolic systems that are capable of proposing definitions and asking mathematical questions *outside* of their training data, that they judge to be `interesting'. 
+* Developing systems that are capable of proposing definitions and asking mathematical questions *outside* of their training data, that they judge to be `interesting'. 
 * Sparse, verifiable reward has been crucial in developing models that are successful at answering *fixed* mathematical questions. I am interested in the relationship between informal and formal proof and their roles on *posing* mathematical questions. 
 * Interpretability of mathematical thought: Over the past 6 months, frontier reasoning models have demonstrated the capability to resolve open research problems. How do they `think' while working on mathematical tasks?
 
