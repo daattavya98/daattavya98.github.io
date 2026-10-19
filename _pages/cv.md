@@ -1,11 +1,8 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: Please click the `pdf' button for a downloadable version
-toc:
-  sidebar: left
+cv_pdf: /assets/pdf/cv.pdf
 ---
