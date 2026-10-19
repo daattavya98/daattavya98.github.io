@@ -39,4 +39,6 @@ For an up-to-date list of publications, please visit my [Google Scholar profile]
 I am currently looking for my next role; please contact me at: <a href="mailto:da579@cam.ac.uk">da579@cam.ac.uk</a>
 </div>
 
-This website uses the [al-folio theme](https://github.com/alshedivat/al-folio).
+<p class="theme-attribution">
+This website uses the <a href="https://github.com/alshedivat/al-folio">al-folio theme</a>.
+</p>
